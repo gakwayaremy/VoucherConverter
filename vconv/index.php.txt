@@ -1,0 +1,11 @@
+<?php 
+
+	
+	if(isset($_GET['id'])){
+		echo "1. Enter voucher TNM/Airtel";
+		echo "<br>";
+		echo "Already Existing Airtime ";
+	}
+
+
+?>
